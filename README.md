@@ -1,6 +1,7 @@
 # 👋 Hi, I’m JonoHub 🎸
 
-Welcome to my GitHub profile! I'm passionate about coding and continuously learning new things. Here's a little more about me.
+Welcome to my GitHub profile! 
+I study Computer Science at [Maastricht University](https://www.maastrichtuniversity.nl/) passionate about coding and continuously learning new things. Here's a little more about me.
 
 ---
 
